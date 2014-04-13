@@ -22,7 +22,7 @@ html {
   /*position: absolute;
   bottom: 0;*/
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 75px;
   background-color: #f5f5f5;
   padding-top: 8px;
 }
@@ -101,4 +101,30 @@ h3 {
 	font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	margin-bottom: 8px;
+}
+
+
+#facebook {
+   background-image: url('../img/facebook_h.png');
+   height: 64px;
+   width: 64px;
+}
+#facebook:hover {
+   background-image: url('../img/facebook.png');
+}
+#twitter {
+   background-image: url('../img/twitter_h.png');
+   height: 64px;
+   width: 64px;
+}
+#twitter:hover {
+   background-image: url('../img/twitter.png');
+}
+#linkedin {
+   background-image: url('../img/linkedin_h.png');
+   height: 64px;
+   width: 64px;
+}
+#linkedin:hover {
+   background-image: url('../img/linkedin.png');
 }
