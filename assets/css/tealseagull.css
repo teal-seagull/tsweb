@@ -108,7 +108,8 @@ h3 {
    background-image: url('../img/facebook_h.png');
    height: 64px;
    width: 64px;
-   display: inline-block;
+   float: left;
+   margin-right: 2px;
    cursor: pointer;
 }
 #facebook:hover {
@@ -118,7 +119,8 @@ h3 {
    background-image: url('../img/twitter_h.png');
    height: 64px;
    width: 64px;
-   display: inline-block;
+   float: left;
+   margin-right: 2px;
    cursor: pointer;
 }
 #twitter:hover {
@@ -128,7 +130,8 @@ h3 {
    background-image: url('../img/linkedin_h.png');
    height: 64px;
    width: 64px;
-   display: inline-block;
+   float: left;
+   margin-right: 2px;
    cursor: pointer;
 }
 #linkedin:hover {
