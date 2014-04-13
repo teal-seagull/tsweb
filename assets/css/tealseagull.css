@@ -108,6 +108,8 @@ h3 {
    background-image: url('../img/facebook_h.png');
    height: 64px;
    width: 64px;
+   display: inline-block;
+   cursor: pointer;
 }
 #facebook:hover {
    background-image: url('../img/facebook.png');
@@ -116,6 +118,8 @@ h3 {
    background-image: url('../img/twitter_h.png');
    height: 64px;
    width: 64px;
+   display: inline-block;
+   cursor: pointer;
 }
 #twitter:hover {
    background-image: url('../img/twitter.png');
@@ -124,6 +128,8 @@ h3 {
    background-image: url('../img/linkedin_h.png');
    height: 64px;
    width: 64px;
+   display: inline-block;
+   cursor: pointer;
 }
 #linkedin:hover {
    background-image: url('../img/linkedin.png');
