@@ -106,9 +106,9 @@ h3 {
 
 #facebook {
    background-image: url('../img/facebook_h.png');
-   height: 64px;
-   width: 64px;
-   float: left;
+   height: 36px;
+   width: 36px;
+   float: right;
    margin-right: 2px;
    cursor: pointer;
 }
@@ -117,9 +117,9 @@ h3 {
 }
 #twitter {
    background-image: url('../img/twitter_h.png');
-   height: 64px;
-   width: 64px;
-   float: left;
+   height: 36px;
+   width: 36px;
+   float: right;
    margin-right: 2px;
    cursor: pointer;
 }
@@ -128,9 +128,9 @@ h3 {
 }
 #linkedin {
    background-image: url('../img/linkedin_h.png');
-   height: 64px;
-   width: 64px;
-   float: left;
+   height: 36px;
+   width: 36px;
+   float: right;
    margin-right: 2px;
    cursor: pointer;
 }
