@@ -13,38 +13,12 @@
   <link href="assets/css/carousel.css" rel="stylesheet">
 </head>
 
-<body class="body">
+<body class="body-index">
 
-  <div class="navbar-wrapper">
-    <div class="container">
-      <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-        <div class="container">
-          <div class="navbar-header">
-            <a class="navbar-brand" href="index.html">TealSeagull</a>
-          </div>
-          <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-              <li><a href="index.html">Home</a></li>
-              <li class="active"><a href="about.html">About</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="cms.html">CMS Solutions</a></li>
-                  <li class="divider"></li>
-                  <li><a href="mobile.html">E-Commerce Solutions</a></li>
-                  <li class="divider"></li>
-                  <li><a href="sap.html">SAP Solutions</a></li>
-                  <li class="divider"></li>
-                  <li><a href="mobile.html">Mobile Solutions</a></li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
+  <?php 
+      $current_page = "about";
+      include("include/menu.php"); 
+    ?>
 
   <div class="container">
     

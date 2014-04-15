@@ -15,39 +15,11 @@
 </head>
 <!-- NAVBAR
   ================================================== -->
-  <body>
-    <div class="navbar-wrapper">
-      <div class="container">
-
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <a class="navbar-brand" href="index.html">TealSeagull</a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="cms.html">CMS Solutions</a></li>
-                    <li class="divider"></li>
-                    <li><a href="ecommerce.html">E-Commerce Solutions</a></li>
-                    <li class="divider"></li>
-                    <li><a href="sap.html">SAP Solutions</a></li>
-                    <li class="divider"></li>
-                    <li><a href="mobile.html">Mobile Solutions</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
-
+  <body class="body-index">
+    <?php 
+      $current_page = "index";
+      include("include/menu.php"); 
+    ?>
 
     <!-- Carousel
     ================================================== -->
@@ -163,31 +135,10 @@
         </div>
       </div>
       -->
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
 
     </div>
-    <!-- FOOTER -->
-    <div class="footer-carousel">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-2 col-sm-offset-8">
-            <h5>Contact Us</h5>
-            <div>
-              hello@tealseagull.com
-            </div>
-          </div>
-          <div class="col-sm-2">
-            <h5>Social Media</h5>
-            <a href="https://www.facebook.com/tealseagull" target="_blank" ><div id="facebook"></div></a>
-            <div id="twitter"></div>
-            <a href="https://www.linkedin.com/company/teal-seagull-it-services" target="_blank" ><div id="linkedin"></div></a>
-          </div>
-        </div>
-      </div>
-    </div>
 
+    <?php include("include/footer.php") ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
