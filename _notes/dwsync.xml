@@ -3,4 +3,5 @@
 <file name="cms.php" server="192.168.1.119//var/www/" local="130420338468125598" remote="130421661000000000" Dst="2" />
 <file name="ecommerce.php" server="192.168.1.119//var/www/" local="130420338468145599" remote="130421662200000000" Dst="2" />
 <file name="sap.php" server="192.168.1.119//var/www/" local="130421667639293076" remote="130421667600000000" Dst="2" />
+<file name="index.php" server="192.168.1.119//var/www/" local="130421679439128481" remote="130421679600000000" Dst="2" />
 </dwsync>
