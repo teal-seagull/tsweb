@@ -13,11 +13,11 @@
             <li class="dropdown <?php echo $current_page == "services" ? "active" : "" ?>">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="cms.php">Content Management Solutions</a></li>
+                <li><a href="cms.php">CMS Solutions</a></li>
                 <li class="divider"></li>
                 <li><a href="ecommerce.php">E-Commerce Solutions</a></li>
                 <li class="divider"></li>
-                <li><a href="sap.php">Information Systems Consulting</a></li>
+                <li><a href="sap.php">SAP Solutions</a></li>
                 <li class="divider"></li>
                 <li><a href="mobile.php">Mobile Solutions</a></li>
               </ul>
