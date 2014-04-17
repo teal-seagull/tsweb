@@ -23,12 +23,16 @@
     <div class="container">
 
         <div class="jumbotron">
-        <h3>Our Enterprise Resources Planning Solutions</h3>
+        <h3>Information Systems Consulting</h3>
         <p>
             <ul>
-            <li>SAP</li>
-            <li>More to come...</li>
+            <li>Enterprise Information Systems.</li>
+            <li>Customer Relationship Management.</li>
             </ul>
+        </p>
+        <p>
+        Enterprise information systems, such as Enterprise Resource Planning <strong>(ERP)</strong> and Customer Relationship Management <strong>(CRM)</strong>, are powerful, complex pieces of software that require skillful customization, implementation and use in order for you to maximize your returns. Let us walk with you through the entire process, from truly understanding how your business operates to customizing (and extending, if necessary) your system to providing support to your users. We are committed to helping you maximize your investment in your business' information systems. 
+
         </p>
         </div>
 
