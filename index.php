@@ -32,7 +32,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="assets/img/TS1.jpg" alt="First slide">
+          <img src="assets/img/ts1.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Content Management Systems</h1>
