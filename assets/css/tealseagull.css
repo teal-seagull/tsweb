@@ -147,3 +147,8 @@ h3 {
 #linkedin:hover {
    background-image: url('../img/linkedin.png');
 }
+
+.carousel-caption > p {
+	color: white;
+	text-shadow: 5px 5px 5px black;
+}
