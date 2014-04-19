@@ -78,7 +78,7 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/wdev140.png" alt="Generic placeholder image">
-          <h2>Content Management Systems</h2>
+          <h2>CMS</h2>
           <p>Our services range from installation, to customization, maintenance, and deployment of your site.</p>
           <p><a class="btn btn-default" href="cms.php" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->

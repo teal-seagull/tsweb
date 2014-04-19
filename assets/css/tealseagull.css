@@ -103,8 +103,6 @@ html {
 	margin-top: 30px;
 }
 
-
-
 h3 {
 	font-size: 18px;
 	/*line-height: 1.1em;*/
@@ -112,7 +110,6 @@ h3 {
 	font-weight: normal;
 	margin-bottom: 8px;
 }
-
 
 #facebook {
    background-image: url('../img/facebook_h.png');
@@ -151,4 +148,16 @@ h3 {
 .carousel-caption > p {
 	color: white;
 	text-shadow: 5px 5px 5px black;
+}
+
+@media (max-width: 767px) {
+	.footer-carousel {
+	  position: absolute;
+	  bottom: 0;
+	  width: 100%;
+	  /* Set the fixed height of the footer here */
+	  height: 150px;
+	  background-color: #f5f5f5;
+	  padding-top: 8px;
+	}
 }
