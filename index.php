@@ -37,7 +37,7 @@
             <div class="carousel-caption">
               <h1>Content Management Systems</h1>
               <p>We offer solutions with WordPress, MediaWiki, Drupal, Joomla, TYP03, and more customized solutions including but not limited to theme and plugin development.</p>
-              <p><a class="btn btn-lg btn-primary" href="cms.php" role="button">Learn more</a></p>
+              <p><a class="btn btn-lg btn-primary" href="services.php#cms" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -47,7 +47,7 @@
             <div class="carousel-caption">
               <h1>Mobile Solutions.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="mobile.php" role="button">Learn more</a></p>
+              <p><a class="btn btn-lg btn-primary" href="services.php#mobile" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@
             <div class="carousel-caption">
               <h1>Information Systems Consulting.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="sap.php" role="button">Learn more</a></p>
+              <p><a class="btn btn-lg btn-primary" href="services.php#sap" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -80,19 +80,19 @@
           <img class="img-circle" src="assets/img/wdev140.png" alt="Generic placeholder image">
           <h2>CMS</h2>
           <p>Your content management system is the engine for pushing your message to the world. Find out how we can help ensure your content is be presented in the most consistent and comprehensive way possible.</p>
-          <p><a class="btn btn-default" href="cms.php" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="services.php#cms" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/droid140.png" alt="Generic placeholder image">
           <h2>Mobile</h2>
           <p>We can help you with your mobile apps needs whether they are for your services or just an app idea that you want to turn into a reality.</p>
-          <p><a class="btn btn-default" href="mobile.php" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="services.php#mobile" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/sap140.png" alt="Generic placeholder image">
           <h2>E-Commerce</h2>
           <p>We will work together with you to take your Information Systems to where they need to be to make your project take flight.</p>
-          <p><a class="btn btn-default" href="spa.php" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="services.php#ecommerce" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
