@@ -75,7 +75,7 @@
               <img class="featurette-image img-responsive" src="assets/img/cms-500.png" alt="Generic placeholder image">
           </div>
           <div class="col-md-7">
-              <h4 class="featurette-heading">Content Management Systems <br/><span class="text-muted">Centralized and shared content.</span></h4>
+              <h2 class="featurette-heading">Content Management Systems <br/><span class="text-muted">Centralized and shared content.</span></h2>
               <p class="lead">Content management systems are at the cutting edge of web presence today, allowing for a truly rich way to push information at high velocity in various directions. However, there are many factors to consider as well as expertise in various technologies needed to implement a truly appropriate CMS system. We bring the knowledge, expertise and commitment in order to produce an engaging, easily-administered custom CMS for your business or organization. Because your content deserves it.</p>
           </div>
         </div>
