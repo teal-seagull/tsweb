@@ -78,7 +78,7 @@
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/wdev140.png" alt="Generic placeholder image">
-          <h2>Content Management Systems</h2>
+          <h2>CMS</h2>
           <p>Our services range from installation, to customization, maintenance, and deployment of your site.</p>
           <p><a class="btn btn-default" href="cms.php" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
@@ -90,7 +90,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/sap140.png" alt="Generic placeholder image">
-          <h2>ECommerce</h2>
+          <h2>E-Commerce</h2>
           <p>We will work together with you to take your Information Systems to where they need to be to make your project take flight.</p>
           <p><a class="btn btn-default" href="spa.php" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
