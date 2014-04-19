@@ -150,6 +150,11 @@ h3 {
 	text-shadow: 5px 5px 5px black;
 }
 
+.img-logo-quote {
+	width: 425px;
+	height: 153px;
+}
+
 @media (max-width: 767px) {
 	.footer-carousel {
 	  position: absolute;
@@ -160,4 +165,10 @@ h3 {
 	  background-color: #f5f5f5;
 	  padding-top: 8px;
 	}
+
+	.img-logo-quote {
+		width: 350px;
+		height: 120px;
+	}
+
 }

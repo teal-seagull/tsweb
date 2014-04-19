@@ -59,7 +59,7 @@
 
       <div class="col-md-4">
         <div class="featurette-heading">
-          <img src="assets/img/logo-quote.png" />
+          <img class="img-logo-quote" src="assets/img/logo-quote.png" />
         </div>
         <div class="row">
           <div class="col-md-10"><h2>Our Mission</h2></div>
