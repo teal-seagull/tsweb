@@ -45,8 +45,8 @@
           <img src="assets/img/TS2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Mobile Solutions.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Mobile Solutions</h1>
+              <p>We can provide your business a great tool to improve its effectiveness or help your app ideas to become a reality.</p>
               <p><a class="btn btn-lg btn-primary" href="services.php#mobile" role="button">Learn more</a></p>
             </div>
           </div>
