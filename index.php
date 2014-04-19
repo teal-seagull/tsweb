@@ -79,7 +79,8 @@
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/wdev140.png" alt="Generic placeholder image">
           <h2>CMS</h2>
-          <p>Our services range from installation, to customization, maintenance, and deployment of your site.</p>
+          <p>Your content management system is the engine for pushing your message to the world. Find out how we can help ensure your content is be presented in the most consistent and comprehensive way possible. 
+</p>
           <p><a class="btn btn-default" href="cms.php" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
