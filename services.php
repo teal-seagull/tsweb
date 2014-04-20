@@ -26,10 +26,8 @@
         <a id="sap"></a>
         <div class="row featurette">
             <div class="col-md-7">
-              <h2 class="featurette-heading">ERP & CRM Solutions <br/><span class="text-muted">Better Coordination and Cooperation.</span></h2>
-              <p class="lead">Enterprise information systems, such as Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM), are powerful and complex pieces of software that require skillful customization and implementation in order to maximize productivity, increase efficiency and reduce costs. </p>
-              
-     
+              <h2 class="featurette-heading">SAP <br/><span class="text-muted">The best run companies run SAP.</span></h2>
+              <p class="lead">Enterprise information systems, such as Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM), are powerful, complex pieces of software that require skillful customization, implementation and use in order for you to maximize your returns. Let us walk with you through the entire process, from truly understanding how your business operates to customizing (and extending, if necessary) your system to providing support to your users. We are committed to helping you maximize your investment in your business' information systems. </p>
           </div>
           <div class="col-md-5">
               <img class="featurette-image img-responsive" src="assets/img/sap-500.png" alt="Generic placeholder image">
