@@ -90,7 +90,7 @@
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/sap140.png" alt="Generic placeholder image">
-          <h2>E-Commerce</h2>
+          <h2>ERP & CRM</h2>
           <p>We will work together with you to take your Information Systems to where they need to be to make your project take flight.</p>
           <p><a class="btn btn-default" href="services.php#ecommerce" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
