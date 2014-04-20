@@ -27,7 +27,7 @@
         <div class="row featurette">
             <div class="col-md-7">
               <h2 class="featurette-heading">ERP & CRM <br/><span class="text-muted">Better Coordination and Cooperation</span></h2>
-              <p class="lead">Enterprise information systems, such as Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM), are powerful, complex pieces of software that require skillful customization to  improve your business process, reduce costs and increase sales. </p>
+              <p class="lead">Enterprise information systems, such as Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM), are powerful, complex pieces of software that require skillful customization that will improve your business process, reduce costs and increase your sales. </p>
           </div>
           <div class="col-md-5">
               <img class="featurette-image img-responsive" src="assets/img/sap-500.png" alt="Generic placeholder image">
