@@ -35,9 +35,8 @@
           <img src="assets/img/ts1.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Content Management Systems</h1>
+              <h3>Content Management Systems</h3>
               <p>We offer solutions with WordPress, MediaWiki, Drupal, Joomla, TYP03, and more customized solutions including but not limited to theme and plugin development.</p>
-              <p><a class="btn btn-lg btn-primary" href="services.php#cms" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -45,9 +44,8 @@
           <img src="assets/img/TS2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Mobile Solutions</h1>
+              <h3>Mobile Solutions</h3>
               <p>We can provide your business a great tool to improve its effectiveness or help your app ideas to become a reality.</p>
-              <p><a class="btn btn-lg btn-primary" href="services.php#mobile" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -55,9 +53,8 @@
           <img src="assets/img/TS3.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Information Systems Consulting.</h1>
+              <h3>Information Systems Consulting.</h3>
               <p>Complete visibility into all the important processes, increase efficiencies and sales.</p>
-              <p><a class="btn btn-lg btn-primary" href="services.php#sap" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -85,13 +82,13 @@
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/droid140.png" alt="Generic placeholder image">
           <h2>Mobile</h2>
-          <p>We can help you with your mobile apps needs whether they are for your services or just an app idea that you want to turn into a reality.</p>
+          <p>We can help you with your mobile apps needs whether they are for your services or just an app idea that you want to turn into a reality.<br><br></p>
           <p><a class="btn btn-default" href="services.php#mobile" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img class="img-circle" src="assets/img/sap140.png" alt="Generic placeholder image">
           <h2>ERP & CRM</h2>
-          <p>We will work together with you to take your Information Systems to where they need to be to make your project take flight.</p>
+          <p>We will work together with you to take your Information Systems to where they need to be to make your project take flight.<br><br></p>
           <p><a class="btn btn-default" href="services.php#ecommerce" role="button">View details &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
