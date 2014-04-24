@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <link rel="shortcut icon" href="assets/ico/favicon.ico">
-  <title>TealSeagull - Abous us</title>
+  <title>TealSeagull - About us</title>
   <link href="assets/css/bootstrap.css" rel="stylesheet">
   <link href="assets/css/tealseagull.css" rel="stylesheet">
   <link href="assets/css/carousel.css" rel="stylesheet">
